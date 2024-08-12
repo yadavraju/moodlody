@@ -1,15 +1,15 @@
 export default function Head() {
   return (
     <>
-      <title>Moodlody</title>
+      <title>Evii</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <meta
         name="description"
-        content="Moodlody is an app with nature sounds to help you focus, sleep, relax and relieve stress."
+        content="Evii is an app with nature sounds to help you focus, sleep, relax and relieve stress."
       />
       <meta
         name="keywords"
-        content="moodlody, nature sounds, focus, sleep, relaxation, stress relief, app, soundscape, 
+        content="Evii, nature sounds, focus, sleep, relaxation, stress relief, app, soundscape,
         mindfulness, wellness, soothing, calming, concentration, meditation, peaceful, tranquility,
         rejuvenation, harmony"
       />
@@ -53,7 +53,7 @@ export default function Head() {
       <meta name="twitter:title" content="Moodlody" />
       <meta
         name="twitter:description"
-        content="Moodlody is an app with nature sounds to help you focus, sleep, relax and relieve stress."
+        content="Evii is an app with nature sounds to help you focus, sleep, relax and relieve stress."
       />
       <meta name="twitter:image" content="/assets/image.png" />
     </>

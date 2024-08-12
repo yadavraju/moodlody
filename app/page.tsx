@@ -7,10 +7,10 @@ export default function Home() {
       <div className="flex flex-col justify-center items-center gap-[2rem] container">
         <div className="pt-[4rem] text-center text-white">
           <div className="text-[32px] sm:text-[48px] lg:text-[72px] font-bold">
-            Moodlody
+            Evii
           </div>
           <div>
-            “Moodlody is an app with nature sounds to help you focus, sleep,
+            “Evii is an app with nature sounds to help you focus, sleep,
             relax and relieve stress.”
           </div>
         </div>
